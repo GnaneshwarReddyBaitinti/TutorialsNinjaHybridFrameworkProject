@@ -1,7 +1,7 @@
 # Selenium TestNG Automation Project
 
- Developed a Selenium TestNG automation framework using Page Object Model to automate test e-commerce functionalities like login, registration, and search.
- Integrated ExtentReports and reusable utilities for reporting, screenshot capture, and code structure.
+- Developed a Selenium TestNG automation framework using Page Object Model to automate test e-commerce functionalities like login, registration, and search.
+- Integrated ExtentReports and reusable utilities for reporting, screenshot capture, and code structure.
 
 ## 🔧 Tech Stack
 - Selenium WebDriver
